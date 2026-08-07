@@ -9,3 +9,6 @@
 ## El tiempo y un factor de entropia por tiempo, leyes de espacio acordes a principios algebráicos.
 
 ## El sujeto debe emerger, hay que encontrar distintas configuraciones para permitir la emergencia
+
+
+Regla de la POS: Los sujetos nunca interactúan directamente entre sí. Solo interactúan con el Entorno y con los gradientes de error que el entorno les proyecta.
